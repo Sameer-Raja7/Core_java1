@@ -2,7 +2,7 @@ package com.flm.core;
 
 public class Palendurm {
 public static void main(String[] args) {
-    String str = "Aba";
+    String str = "hai";
     String response = "";
     for (int i =str.length()-1; i>=0; i--){
        char c =str.charAt(i);
